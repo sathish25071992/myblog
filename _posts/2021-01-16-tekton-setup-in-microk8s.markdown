@@ -77,6 +77,8 @@ From release 3.10 (native support from 4.0), LXD supports running VM. We will be
     microk8s status --wait-ready
     ```
 
+    ![image](/assets/tekton-setup-in-microk8s/microk8s-ready.png)
+
 4. Now kubectl can be accessed via `microk8s kubectl <sub-commands>`
 5. Create a alias for the kubectl command.
 
@@ -99,6 +101,8 @@ From release 3.10 (native support from 4.0), LXD supports running VM. We will be
     kubectl get pods --namespace tekton-pipelines
     ```
 
+    ![image](/assets/tekton-setup-in-microk8s/tekton-ready.png)
+
 2. Setup the Tekton CLI
 
     ``` bash
@@ -109,6 +113,8 @@ From release 3.10 (native support from 4.0), LXD supports running VM. We will be
     tkn version
     ```
 
+    ![image](/assets/tekton-setup-in-microk8s/tkn-cli.png)
+
 3. Install Tekton Dashboard
 
     ``` bash
@@ -116,6 +122,8 @@ From release 3.10 (native support from 4.0), LXD supports running VM. We will be
     ```
 
 4. Wait for the dashboard to be up in Running state. `kubectl get pods --namespace tekton-pipelines`
+
+    ![image](/assets/tekton-setup-in-microk8s/tekton-dashboard-ready.png)
 
 ### Port configuration for external access
 
@@ -167,4 +175,4 @@ But Ingress does not expose arbitrary ports or protocols. But tekton runs on 909
 3. Check the available port in the node. `kubectl get svc -A`
 4. Tekton can be accessed from `http://<host-server-ip>:31475/`
 
-
+    ![image](/assets/tekton-setup-in-microk8s/tekton-dashboard.png)
