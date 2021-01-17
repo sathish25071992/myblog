@@ -16,12 +16,15 @@
 title: Welcome to Code name Sats
 email: sathish25071992@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog on what I learn
+  Hi, Welcome to Code name Sats. I will be writing on the topics I learn, 
+  experiment as part of my daily work and share my thoughts on the same. 
+  Enjoy my Blog and provide your valuable feedback.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sathish25071992
 github_username:  sathish25071992
+instagram_username: sathish25071992
 
 # Build settings
 markdown: kramdown
