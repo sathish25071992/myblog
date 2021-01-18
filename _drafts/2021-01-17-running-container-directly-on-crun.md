@@ -39,11 +39,11 @@ We are goint to try running container directly on a container-runtime without co
 2. Generate the config.json file
 
     ``` bash
-    ./result/bin/crun spec
+    ./result/bin/crun --rootless=1 spec
     ```
 
 3. Run the container
 
     ``` bash
-    ./result/bin/crun run alpine
+    ./result/bin/crun --rootless=1 run alpine
     ```
