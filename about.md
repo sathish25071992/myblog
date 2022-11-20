@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, Welcome to Code name Sats. My name is Sathish. A working professional with enthusiasim to experiment and explore various embedded devices and technologies.
+  
+I will be writing on the topics I learn, experiment as part of my daily work and share my thoughts on the same. Enjoy my Blog and provide your valuable feedback.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find all my public work I have done so far in github ([sathish25071992](https://github.com/sathish25071992))
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Contac Me
 
+You can reach me out over mail / DM me in linkedin. I am also available in Twitter.
 
-[jekyll-organization]: https://github.com/jekyll
+Twitter: [sathish25071992](https://twitter.com/sathish25071992)
+
+Linkedin:  [sathish25071992](https://www.linkedin.com/in/sathish25071992)
