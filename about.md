@@ -10,7 +10,7 @@ I will be writing on the topics I learn, experiment as part of my daily work and
 
 You can find all my public work I have done so far in github ([sathish25071992](https://github.com/sathish25071992))
 
-## Contac Me
+## Contact Me
 
 You can reach me out over mail / DM me in linkedin. I am also available in Twitter.
 
