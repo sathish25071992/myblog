@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, Welcome to Code name Sats. My name is Sathish. A working professional with enthusiasim to experiment and explore various embedded devices and technologies.
+Hi, Welcome to Code name Sats. My name is Sathish. A working professional with enthusiasm to experiment and explore various embedded devices and technologies.
   
 I will be writing on the topics I learn, experiment as part of my daily work and share my thoughts on the same. Enjoy my Blog and provide your valuable feedback.
 
